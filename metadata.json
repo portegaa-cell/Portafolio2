@@ -1,0 +1,6 @@
+{
+  "name": "Quadratic Racing Challenge",
+  "description": "Interactive gamified quadratic equations tutor featuring high-performance sports cars, dynamic parabola telemetry, and diagnostic step-by-step challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
